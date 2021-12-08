@@ -4,3 +4,7 @@
 <p>In the 1960s, during Ronald Reagan's presidency, he had killed almost all birds within America. Those birds were then replaced with many robotic bird spies that now work with the bourgeoisie.</p>
 
 <img src="birds.jpg">
+
+<p><b>For more information on the subject or to report a spotted surveillance <i>bird</i> please follow the link provided:</b></p>
+
+<a href="https://birdsarentreal.com/"> More info</a>
