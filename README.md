@@ -1,10 +1,10 @@
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
 
-  <title>'Final Project'</title>
+<h1>Final Project</h1>
 
 </head>
 
