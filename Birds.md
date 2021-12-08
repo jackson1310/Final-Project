@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+</head>
+
+<body>
 <h1> Have you ever seen a baby pigeon?</h1>
 <a href="README.md">Home</a>
 <h2>The birds work for the the bourgeoisie</h2>
@@ -8,3 +16,8 @@
 <p><b>For more information on the subject or to report a spotted surveillance <i>bird</i> please follow the link provided:</b></p>
 
 <a href="https://birdsarentreal.com/"> More info</a>
+
+
+</body>
+
+</html>
