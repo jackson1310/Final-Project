@@ -17,15 +17,31 @@ For this project I am to create a website using the Markdown programming languag
 So far it is the easiest language I have used. I wish I could use this language
 for all of my programming classes.
 </p>
-<h3>Picture Time</h3>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fdestinationuganda.com%2Fwp-content%2Fuploads%2F2020%2F06%2FHoney-Badger-Uganda.jpg%3Fresize%3D1600%252C1067%26ssl%3D1&f=1&nofb=1">
+<h3>Favorite Foods</h3>
+<p><b>Listed 1-3 (1 is favorite, 3 is least favorite)</b></p>
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Food</th>
+    <th>Power Ranking</th>
+  </tr>
+  <tr>
+    <td>Italian</td>
+    <td>Shrimp Fettucine Alfredo</td>
+    <td> No. 1 </td>
+  </tr>
+  <tr>
+    <td>Mexican</td>
+    <td>Tamales</td>
+    <td> No.3</td>
+  </tr>
+  <tr>
+    <td>American</td>
+    <td>NY Strip Steak with Mashed Potatoes</td>
+    <td> No.2</td>
+  </tr>
+</table>
 
-<p>
-  This is a picture of a honey badger. They are known to kill predators much more
-stronger and deadlier than they are, just on the sheer capability of their courage
-and indominable spirit. Honey badger don't care.
-
-</p>
 <h3> What else is on this website?</h3>
   <ul>
     <li><a href="Snowmen.md">Snowmen</a></li>
