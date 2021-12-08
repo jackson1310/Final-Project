@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+</head>
+
+<body>
 <h1> Can you bounce a ball to the moon?</h1>
 <a href="README.md">Home</a>
 
@@ -16,3 +24,8 @@ best spot for inspiration is. None the less, this graph represents that if you w
 to throw a ball at a distance greater than that of the moon to the Earth. Bounce it off
 of the Earth's surface. It would then proceed to bounce all the way to the moon.
 So in theory, <b>Yes</b> you can bounce a ball to the moon.</p>
+
+
+</body>
+
+</html>
