@@ -27,6 +27,12 @@ and indominable spirit. Honey badger don't care.
 
 </p>
 <h3> What else is on this website?</h3>
+  <ul>
+    <li>Snowmen</li>
+    <li>Birds</li>
+    <li>Bouncing Ball</li>
+    <li>Meme</li>
+  </ul>
 
 
 </body>
