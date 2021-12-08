@@ -29,9 +29,9 @@ and indominable spirit. Honey badger don't care.
 <h3> What else is on this website?</h3>
   <ul>
     <li><a href="Snowmen.md">Snowmen</a></li>
-    <li>Birds</li>
-    <li>Bouncing Ball</li>
-    <li>Meme</li>
+    <li><a href="Birds.md">Birds</a></li>
+    <li><a href="Ball.md">Bouncing Ball</a></li>
+    <li><a href="Meme.md">Meme</a></li>
   </ul>
 
 
