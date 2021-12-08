@@ -1,3 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+</head>
+
+<body>
 <h1>Smoking Kills</h1>
 <a href="README.md">Home</a>
 
@@ -7,3 +16,7 @@
 <p>Once a household name that we all know and love, turned into a melted slope of what
 he once was. While the song he sung was filled with jolly and Christmas spirit, his corn cob
 pipe was no healthy habit. <b>Take it from frosty folks!</b></p>
+
+</body>
+
+</html>
