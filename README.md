@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <style>
-h1{
+h1 {
   text-align: center;
   margin: 0px;
   color: #096192;
