@@ -4,17 +4,17 @@
 <head>
 <meta charset="UTF-8">
 <style>
-h2{text-align: center;
+h1{
+  text-align: center;
   margin: 0px;
   color: #096192;
 }
 </style>
-<h1>Home</h1>
+<h1>My Final Project</h1>
 
 </head>
 
 <body>
-<h2>My Final Project</h2>
 <h3>About Me</h3>
 <p> My name is Jackson Maloney and I am student at University of Missouri-Columbia
 studying Information technology.
