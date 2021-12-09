@@ -4,9 +4,9 @@
 <head>
 <meta charset="UTF-8">
 <style>
-h2{text-align:center;
-  margin:0px;
-  color:#096192;
+h2{text-align: center;
+  margin: 0px;
+  color: #096192;
 }
 </style>
 <h1>Home</h1>
